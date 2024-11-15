@@ -1,7 +1,6 @@
+<p align="center">
 <img src="https://nahmii.io/logos/nahmii-icon-100px.png" alt="isolated" style="display: block; margin: 0 auto;" width="100"/>
-
-<br>
-<br>
+</p>
 
 # NII Token Reissue
 
@@ -74,15 +73,17 @@ Given the change in both total supply and decimal value, the wei token balance t
 
 2. Connect your wallet and select 'Claim your Tokens' from the account dropdown.
     - _Note: Only eligible wallets will show this link. See `snapshot.csv` for eligible wallets._
-
+<p align="center">
   <img src="./images/claim.png" alt="isolated" style="display: block; margin: 0 auto; padding: 10px 0px 10px 0px;" width="250"/>
+</p>
 
 3. The claim modal will show your calculated NII snapshot balance and your allocated NT token claim.
 
 4. Click 'Claim your Tokens' and confirm the Metamask transaction when prompted.
-
-<img src="./images/allocation.png" alt="isolated" style="display: block; margin: 0 auto; padding: 10px 0px 10px 0px;"  width="250"/>
+<p align="center">
+  <img src="./images/allocation.png" alt="isolated" style="display: block; margin: 0 auto; padding: 10px 0px 10px 0px;"  width="250"/>
+</p>
 
 ## Questions?
 
-Reach out to us on the [Nahmii Discord channel](https://discord.com/invite/GKTsUTH) if you have any questions!
+Reach out to us on the [Nahmii Discord channel](https://discord.com/invite/GKTsUTH)
